@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kamal/static/css/main.d34fb4d1.css",
+    "main.js": "/kamal/static/js/main.5304f67f.js",
+    "static/js/787.707f81bb.chunk.js": "/kamal/static/js/787.707f81bb.chunk.js",
+    "static/media/profilepic.jpg": "/kamal/static/media/profilepic.d0254bfba75376ae97e6.jpg",
+    "static/media/Project2.png": "/kamal/static/media/Project2.bdc55d8ed695894059ae.png",
+    "static/media/Project1.png": "/kamal/static/media/Project1.62cfbaa046998ac1511a.png",
+    "static/media/Sch12.png": "/kamal/static/media/Sch12.a1a593c7464b59b64942.png",
+    "static/media/CSSlogo.png": "/kamal/static/media/CSSlogo.4c132d518acbd3ad94c6.png",
+    "static/media/JSlogo.png": "/kamal/static/media/JSlogo.130c0ecd57833da6f75c.png",
+    "static/media/PoiretOne-Regular.ttf": "/kamal/static/media/PoiretOne-Regular.9bf109e97f6294c6fe2b.ttf",
+    "static/media/reactLogo.png": "/kamal/static/media/reactLogo.4e208b3c2ac6da07801c.png",
+    "static/media/JAVA.png": "/kamal/static/media/JAVA.2be0bca1b95cfc0ce63e.png",
+    "static/media/HTMLlogo.jpg": "/kamal/static/media/HTMLlogo.99c0ccccb859c8a9ee34.jpg",
+    "index.html": "/kamal/index.html",
+    "main.d34fb4d1.css.map": "/kamal/static/css/main.d34fb4d1.css.map",
+    "main.5304f67f.js.map": "/kamal/static/js/main.5304f67f.js.map",
+    "787.707f81bb.chunk.js.map": "/kamal/static/js/787.707f81bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34fb4d1.css",
+    "static/js/main.5304f67f.js"
+  ]
+}
